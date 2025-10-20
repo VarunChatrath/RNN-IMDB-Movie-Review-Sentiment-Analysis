@@ -55,4 +55,3 @@ https://rnn-imdb-movie-review-sentiment-analysis.streamlit.app/
 **Varun Chatrath**  
 Master’s in Artificial Intelligence & Data Science  
 Deggendorf Institute of Technology, Germany  
-[GitHub](https://github.com/VarunChatrath) | [LinkedIn](https://www.linkedin.com/in/varun-chatrath/)
